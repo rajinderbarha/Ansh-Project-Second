@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/Ansh-Project-Second/static/css/main.10a5cd10.css",
-    "main.js": "/Ansh-Project-Second/static/js/main.ee47323d.js",
+    "main.css": "/Ansh-Project-Second/static/css/main.e349a0d3.css",
+    "main.js": "/Ansh-Project-Second/static/js/main.f61d99d7.js",
     "static/js/787.56e3a01d.chunk.js": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js",
     "static/media/Imgg-3.png": "/Ansh-Project-Second/static/media/Imgg-3.d20a744bb4b309e6e6be.png",
     "static/media/Running.svg": "/Ansh-Project-Second/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
     "static/media/man1.jpg": "/Ansh-Project-Second/static/media/man1.91bd8ee4ff67a190c451.jpg",
-    "static/media/_Influencer Froot (1).svg": "/Ansh-Project-Second/static/media/6340255dae4cf97496aa010e_Influencer Froot (1).759068c498b1203dd78175bccea605d3.svg",
-    "static/media/_Influencer Froot.svg": "/Ansh-Project-Second/static/media/6340255dae4cf97496aa010e_Influencer Froot.759068c498b1203dd78175bccea605d3.svg",
+    "static/media/thirdimg.svg": "/Ansh-Project-Second/static/media/thirdimg.dd9fa730cc1663371ffa77ea242f710f.svg",
+    "static/media/fourthimg.svg": "/Ansh-Project-Second/static/media/fourthimg.3bfe17cfec8cefecc95443009c77c2ea.svg",
+    "static/media/fifthimg.svg": "/Ansh-Project-Second/static/media/fifthimg.e8d030e95fbb019d22cf7cdbf73a37de.svg",
+    "static/media/firstimg.svg": "/Ansh-Project-Second/static/media/firstimg.759068c498b1203dd78175bccea605d3.svg",
+    "static/media/secondimg.svg": "/Ansh-Project-Second/static/media/secondimg.c9b3e3f386824c2febdf9ca7c561ea19.svg",
     "static/media/Img-4.png": "/Ansh-Project-Second/static/media/Img-4.70781963a43bae7d73ff.png",
     "static/media/Img-1.png": "/Ansh-Project-Second/static/media/Img-1.00d4f4ab62a023114088.png",
     "static/media/Img-2.png": "/Ansh-Project-Second/static/media/Img-2.e46917674c092b2b47fc.png",
@@ -16,12 +19,12 @@
     "static/media/right-img.svg": "/Ansh-Project-Second/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "index.html": "/Ansh-Project-Second/index.html",
     "static/media/_gamerpay-symbol.svg": "/Ansh-Project-Second/static/media/62fe0836e336482825f6ccb4_gamerpay-symbol.910096ba6e7f46a12f3f923612241fb2.svg",
-    "main.10a5cd10.css.map": "/Ansh-Project-Second/static/css/main.10a5cd10.css.map",
-    "main.ee47323d.js.map": "/Ansh-Project-Second/static/js/main.ee47323d.js.map",
+    "main.e349a0d3.css.map": "/Ansh-Project-Second/static/css/main.e349a0d3.css.map",
+    "main.f61d99d7.js.map": "/Ansh-Project-Second/static/js/main.f61d99d7.js.map",
     "787.56e3a01d.chunk.js.map": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10a5cd10.css",
-    "static/js/main.ee47323d.js"
+    "static/css/main.e349a0d3.css",
+    "static/js/main.f61d99d7.js"
   ]
 }
