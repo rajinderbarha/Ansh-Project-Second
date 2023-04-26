@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ansh-Project-Second/static/css/main.930f3d93.css",
-    "main.js": "/Ansh-Project-Second/static/js/main.cb982fcd.js",
+    "main.js": "/Ansh-Project-Second/static/js/main.30ae7c9a.js",
     "static/js/787.56e3a01d.chunk.js": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js",
     "static/media/Imgg-3.png": "/Ansh-Project-Second/static/media/Imgg-3.d20a744bb4b309e6e6be.png",
     "static/media/Running.svg": "/Ansh-Project-Second/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
@@ -20,11 +20,11 @@
     "index.html": "/Ansh-Project-Second/index.html",
     "static/media/_gamerpay-symbol.svg": "/Ansh-Project-Second/static/media/62fe0836e336482825f6ccb4_gamerpay-symbol.910096ba6e7f46a12f3f923612241fb2.svg",
     "main.930f3d93.css.map": "/Ansh-Project-Second/static/css/main.930f3d93.css.map",
-    "main.cb982fcd.js.map": "/Ansh-Project-Second/static/js/main.cb982fcd.js.map",
+    "main.30ae7c9a.js.map": "/Ansh-Project-Second/static/js/main.30ae7c9a.js.map",
     "787.56e3a01d.chunk.js.map": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.930f3d93.css",
-    "static/js/main.cb982fcd.js"
+    "static/js/main.30ae7c9a.js"
   ]
 }
