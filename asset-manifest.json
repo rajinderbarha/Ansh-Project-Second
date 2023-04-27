@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ansh-Project-Second/static/css/main.847dfd28.css",
-    "main.js": "/Ansh-Project-Second/static/js/main.4ca1d2a2.js",
+    "main.css": "/Ansh-Project-Second/static/css/main.f0365148.css",
+    "main.js": "/Ansh-Project-Second/static/js/main.b28f3a58.js",
     "static/js/787.56e3a01d.chunk.js": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js",
     "static/media/Imgg-3.png": "/Ansh-Project-Second/static/media/Imgg-3.d20a744bb4b309e6e6be.png",
     "static/media/Running.svg": "/Ansh-Project-Second/static/media/Running.faf1e5754504bce1edfa04529ca148e5.svg",
@@ -14,17 +14,21 @@
     "static/media/Img-4.png": "/Ansh-Project-Second/static/media/Img-4.70781963a43bae7d73ff.png",
     "static/media/Img-1.png": "/Ansh-Project-Second/static/media/Img-1.00d4f4ab62a023114088.png",
     "static/media/Img-2.png": "/Ansh-Project-Second/static/media/Img-2.e46917674c092b2b47fc.png",
+    "static/media/Con-1.jpg": "/Ansh-Project-Second/static/media/Con-1.428e2fe273f25ff36880.jpg",
     "static/media/firstimg.jpg": "/Ansh-Project-Second/static/media/firstimg.8bd92581306c35d786ea.jpg",
+    "static/media/Con-4.jpg": "/Ansh-Project-Second/static/media/Con-4.7e7c20af198439992e3d.jpg",
+    "static/media/Con-3.jpg": "/Ansh-Project-Second/static/media/Con-3.2a4d35793d1e19046e16.jpg",
+    "static/media/Con-2.jpg": "/Ansh-Project-Second/static/media/Con-2.c324774448c2f7bb6e77.jpg",
     "static/media/360_F_303514968_eeVPWukEGgHye26kCRBK7A7FQk8HLeVq.webp": "/Ansh-Project-Second/static/media/360_F_303514968_eeVPWukEGgHye26kCRBK7A7FQk8HLeVq.db5e8b5655e817bbc12e.webp",
     "static/media/right-img.svg": "/Ansh-Project-Second/static/media/right-img.2552415f7cc1aed482a61af063015fe4.svg",
     "index.html": "/Ansh-Project-Second/index.html",
     "static/media/_gamerpay-symbol.svg": "/Ansh-Project-Second/static/media/62fe0836e336482825f6ccb4_gamerpay-symbol.910096ba6e7f46a12f3f923612241fb2.svg",
-    "main.847dfd28.css.map": "/Ansh-Project-Second/static/css/main.847dfd28.css.map",
-    "main.4ca1d2a2.js.map": "/Ansh-Project-Second/static/js/main.4ca1d2a2.js.map",
+    "main.f0365148.css.map": "/Ansh-Project-Second/static/css/main.f0365148.css.map",
+    "main.b28f3a58.js.map": "/Ansh-Project-Second/static/js/main.b28f3a58.js.map",
     "787.56e3a01d.chunk.js.map": "/Ansh-Project-Second/static/js/787.56e3a01d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.847dfd28.css",
-    "static/js/main.4ca1d2a2.js"
+    "static/css/main.f0365148.css",
+    "static/js/main.b28f3a58.js"
   ]
 }
