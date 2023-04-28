@@ -1,0 +1,48 @@
+.Connect-main{
+    background-color: #f8f4f2;
+    padding: 100px 0;
+}
+.coloer-borderr{
+    border: 1px solid blue;
+    width: 147px;
+    padding: 5px 0;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 12px !important;
+    color: blue !important;
+}
+.Connect h2{
+    font-size: 64px;
+    font-weight: 700;
+    max-width: 556px;
+}
+.Connect p{
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: -.3px;
+    line-height: 140%;
+   color: #555E67;
+   max-width: 500px;
+}
+.form
+{
+    max-width: 600px;
+    background-color:rgba(255, 153, 102, 1)  !important;
+    border-radius: 15px;
+}
+@media only screen and (max-width: 768px){
+    .Connect-main {
+        padding: 50px 20px;
+    }
+    .form {
+        margin-top: 50px;
+    }
+    .Connect h2 {
+        font-size: 40px;
+        margin-top: 20px;
+    }
+    .Connect p {
+        font-size: 20px;
+        margin: 0;
+    }
+}

@@ -1,0 +1,70 @@
+.icon-Running {
+    background-color: #eda6e6;
+    width: 24px;
+    height: 24px;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.Running,
+.Running-2,.Running-3,.Running-4 {
+    padding: 200px 0;
+    background-color: #f8f4f2;
+}
+
+.Running-2,.Running-3,.Running-4  {
+    border-top: 2px solid #000;
+}
+.Running-box h4{
+    font-size: 20px;
+}
+.Running-2{
+    position: sticky;
+    top: 0px;
+    z-index: -5;
+}
+.Running-3{
+    position: sticky;
+    top: 0px;
+    z-index: -2;
+}
+.Running-box {
+    max-width: 480px;
+}
+.Running {
+    position: sticky;
+    top: 0px;
+    z-index: -10;
+}
+
+.Rummin-img {
+    max-width: 496px;
+    margin: auto;
+}
+
+/* .Running h2,.Running-2 h2,.Running-3 h2,.Running-4 h2{
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 700;
+    padding-bottom:20px ;
+} */
+@media only screen and (max-width: 768px){
+    .Running, .Running-2, .Running-3 {
+        background-color: #f8f4f2;
+        padding: 70px 20px 150px;
+    }
+    .Running h2, .Running-2 h2, .Running-3 h2, .Running-4 h2 {
+        font-size: 40px;
+        line-height: 1.2;
+    }
+    .Running-box h4 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .Running-4 {
+        padding: 70px 20px;
+    }
+    
+}

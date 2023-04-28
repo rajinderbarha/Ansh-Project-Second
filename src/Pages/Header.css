@@ -1,0 +1,22 @@
+.Sign-in {
+    font-size: 16px !important;
+    font-weight: 500;
+}
+
+.navbar {
+    background-color: #f8f4f2;
+    padding: 20px 0 !important;
+}
+
+.nav-link a {
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000;
+}
+/* div#navbarScroll {
+    position: fixed;
+    background-color: aqua;
+    width: 100%;
+    padding: 20px;
+} */

@@ -1,0 +1,64 @@
+
+.Banner{
+    background-color: #f8f4f2;
+    padding: 100px 0;
+}
+
+.banner-sec h2{
+    font-size: 70px;
+    max-width: 500px;
+    font-weight: 700;
+}
+.banner-sec p{
+    font-size: 23px;
+    margin: 15px 0 30px 0;
+    max-width: 400px;
+}
+.banner-sec button {
+    padding: 15px 50px;
+    border: none;
+    font-size: 18px;
+    background-color: #ff7e3e;
+    font-weight: 500;
+    border-radius: 10px;
+
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+ transition: all 2s ;
+}
+.banner-sec button:hover .hiiii{
+    transform: translate3d(-93px, 0px, 0px);
+}
+.hiiii{
+    background-color: #000;
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+img{
+    width: 100%;
+}
+p.my-5 {
+    max-width: 80% !important;
+}
+@media only screen and (max-width: 768px){
+.banner-sec h2 {
+    font-size: 40px;
+}
+.banner-sec {
+    margin-bottom: 50px;
+}
+.Banner {
+    background-color: #f8f4f2;
+    padding: 50px 20px;
+}
+.banner-sec p {
+    margin: 15px 0 20px 0;
+    font-size: 20px;
+}
+p.my-5 {
+    max-width: 100% !important;
+}
+}
